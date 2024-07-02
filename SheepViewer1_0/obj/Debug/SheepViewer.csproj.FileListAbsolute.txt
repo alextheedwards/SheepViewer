@@ -1,0 +1,17 @@
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\bin\Debug\sheepDB.mdf
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\bin\Debug\sheepDB_log.ldf
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\bin\Debug\SheepViewer1_0.exe.config
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\bin\Debug\SheepViewer1_0.exe
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\bin\Debug\SheepViewer1_0.pdb
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer.csproj.AssemblyReference.cache
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.help.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.import.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.index.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.lambingInfo.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.lambingSelect.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.Properties.Resources.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.sheepInfo.resources
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer.csproj.GenerateResource.cache
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer.csproj.CoreCompileInputs.cache
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.exe
+C:\Users\Alex\git\SheepViewer\SheepViewer1_0\obj\Debug\SheepViewer1_0.pdb
